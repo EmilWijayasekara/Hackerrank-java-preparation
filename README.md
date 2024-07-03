@@ -1,5 +1,7 @@
 # Java Preparation Problems
 
+![enter image description here](https://raw.githubusercontent.com/EmilWijayasekara/Hackerrank-java-preparation/main/assets/cover.jpg)
+
 This repository is dedicated to solving various Java problems, aimed at enhancing your programming skills and preparing for competitive coding challenges. By solving these problems, you can earn badges and stars, demonstrating your progress and expertise.
 
 ## Introduction
