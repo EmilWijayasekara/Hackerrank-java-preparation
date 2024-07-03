@@ -20,7 +20,3 @@ Here is the list of problems currently available in this repository. Each proble
 4. ...
 
 More problems will be added regularly to keep the repository up-to-date and challenging.
-
----
-
-Happy coding! If you have any questions or suggestions, feel free to open an issue or contact me. Let's learn and grow together!
