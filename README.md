@@ -19,4 +19,4 @@ Here is the list of problems currently available in this repository. Each proble
 3. [Problem 3: Problem Title](Problem3/README.md)
 4. ...
 
-More problems will be added regularly to keep the repository up-to-date and challenging.
+More problems will be added regularly to keep the repository up-to-date and challenging
