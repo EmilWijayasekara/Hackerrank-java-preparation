@@ -10,12 +10,4 @@ This repository contains a collection of Java problems that span a wide range of
 
 This is my personal problem-solving repository, where I tackle Java preparation problems to enhance my coding skills and prepare for technical interviews and competitions. It's a continuous journey of learning and improvement.
 
-## Problem List
-
-Here is the list of problems currently available in this repository. Each problem's folder contains a `README.md` file with the problem description, constraints, and examples.
-
-1. [Problem 1: Problem Title](Problem1/README.md)
-2. [Problem 2: Problem Title](Problem2/README.md)
-3. [Problem 3: Problem Title](Problem3/README.md)
-
 More problems will be added regularly to keep the repository up-to-date and challenging
