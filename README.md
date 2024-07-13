@@ -17,10 +17,5 @@ Here is the list of problems currently available in this repository. Each proble
 1. [Problem 1: Problem Title](Problem1/README.md)
 2. [Problem 2: Problem Title](Problem2/README.md)
 3. [Problem 3: Problem Title](Problem3/README.md)
-4. ...
 
-More problems will be added regularly to keep the repository up-to-date and challenging.
-
----
-
-Happy coding! If you have any questions or suggestions, feel free to open an issue or contact me. Let's learn and grow together!
+More problems will be added regularly to keep the repository up-to-date and challenging
